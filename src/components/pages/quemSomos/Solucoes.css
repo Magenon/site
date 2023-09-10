@@ -1,0 +1,15 @@
+.containers {    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 50px;
+    margin-bottom: 110px;
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 100vw;
+    height: 35vh;
+    flex-direction: row;
+}
