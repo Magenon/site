@@ -1,7 +1,11 @@
 {
   "name": "site",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://magenon.github.io/site/",
+=======
+  "homepage": "site/",
+>>>>>>> e8d141da23a19a948758b22ded97c50e40540cff
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
