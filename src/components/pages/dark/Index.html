@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <html lang="pt" data-theme="light">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Exemplo</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="script.js" defer></script>
+    <script>
+      const changeThemeToDark = () => {
+        document.documentElement.setAttribute("data-theme", "dark");
+        localStorage.setItem("data-theme", "dark");
+      }
+
+      const changeThemeToLight = () => {
+        document.documentElement.setAttribute("data-theme", "light");
+        localStorage.setItem("data-theme", 'light');
+      }
+      let theme = localStorage.getItem('data-theme');
+      if (theme == 'dark') changeThemeToDark();
+    </script>
+
+  </head>
+
+  <body>
+    <header>
+      <h1>Super Site Supimpa!</h1>
+      <input type="checkbox" name="toggle-dark" id="toggle-dark">
+    </header>
+    <main>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam quas assumenda corporis accusantium
+        repudiandae provident iusto itaque recusandae architecto officia nostrum vitae, quos facilis totam earum
+        accusamus rerum? Reiciendis est accusamus beatae voluptate laborum nulla, delectus similique reprehenderit ea,
+        alias mollitia voluptatum eligendi itaque temporibus, minus labore debitis! Cumque aliquam voluptatum culpa
+        repellat sunt tempora molestias? Et sunt ex incidunt repellendus voluptate officia. Minus possimus aspernatur
+        odit aut mollitia officiis alias velit enim numquam obcaecati consequatur cum molestiae tempore et adipisci
+        officia quo totam, amet illum veniam explicabo sed voluptate? Eum consequuntur, veniam temporibus laborum
+        accusamus qui quaerat aliquam eius sapiente. Similique autem quod illo cum, numquam deleniti quidem expedita!
+        Quod, ullam. Sunt iure ab aliquid architecto atque, nihil inventore nulla laboriosam neque reiciendis impedit
+        tenetur quas error reprehenderit quod magnam! Sunt quod doloribus possimus, vel ex at voluptate, itaque quas,
+        corporis explicabo voluptatum voluptates numquam a suscipit consectetur excepturi id dolore ducimus! Ipsum esse
+        earum tempora vitae mollitia reiciendis nam culpa. Facilis adipisci a eaque quisquam vitae officia saepe, sit
+        earum est in nisi illo rerum eligendi perferendis recusandae suscipit doloremque deleniti? Omnis non dolore
+        ipsam corrupti in eos impedit culpa, amet inventore labore sed similique delectus aliquid expedita. Officia
+        laborum nemo alias dolorum aliquam facilis cumque magnam, voluptatem soluta, porro deserunt vitae illo magni
+        assumenda ullam reprehenderit ducimus dicta iure accusamus non consequuntur odit inventore libero sunt. Sunt.
+      </p>     
+    </main>
+    <footer>
+      &copy; Copyleft 2022 - The Developer's Life
+    </footer>
+  </body>
+
+  </html>

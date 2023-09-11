@@ -1,0 +1,389 @@
+@media only screen and (max-width: 800px) {
+  .logo-container {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+/* @media only screen and (max-width: 800px) {
+  .app-header {
+    display: none;
+    visibility: hidden;
+  }
+} */
+
+@media screen and (max-width: 767px) {
+  .navbar-default .navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    text-indent: 0;
+    text-align: right;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  .container-fluid>.navbar-collapse,
+  .container-fluid>.navbar-header,
+  .container>.navbar-collapse,
+  .container>.navbar-header {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pagina-titulo {
+    padding: 15px 0 15px;
+  }
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* ====================== A ========================================== */
+
+/* ====================== B ========================================== */
+
+.botao-verde {
+  background-color: #4fc198;
+}
+
+.botao-agendar-certificado {
+  width: 200px;
+  height: 30px;
+  padding: 5px 10px;
+  left: 10px;
+  bottom: 15px;
+  border-radius: 3px;
+}
+
+.breadcrumb {
+  background: none;
+}
+
+.breadcrumb {
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: transparent;
+  border-radius: 4px;
+}
+
+/* ====================== C ========================================== */
+
+/* Containers */
+.container {
+  padding-right: 65px;
+  /* aqui mexi no tamanho da imagem Home */
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.containerMc {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  display: inline-block;
+}
+
+.containerCad {
+  max-width: 1200px;
+  margin: 0 auto;
+  right: 100xpx;
+  color: aquamarine;
+  display: inline-block;
+}
+
+/* ====================== D ========================================== */
+
+div {
+  display: block;
+}
+
+/* ====================== E ========================================== */
+
+
+/* ====================== F ========================================== */
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-size {
+  background: #9bd6a3;
+  padding: .5rem 2rem;
+  text-align: right;
+  text-align: center;
+  color: #beb0b0;
+
+  width: 1700px;
+  height: 300px;
+  border-radius: 10px;
+  background-color: rgb(76, 80, 73);
+  margin: 5px;
+
+  align-items: center;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 0 1rem black;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+  text-align: left;
+}
+
+.form-container {
+  margin: 7px 0;
+}
+
+.form-contato {
+  width: 100%;
+  background: #fff;
+  color: #B61117;
+  font-size: 15px;
+  text-indent: 10px;
+  padding: 6px 0;
+  border: 2px solid #2d6d24;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  transition: all 200ms linear;
+}
+
+.form-container label {
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+.form-contato-botao {
+  width: 100%;
+  max-width: 260px;
+  background-color: #1a1a1a;
+  color: #fff;
+  font-size: 16px;
+  text-indent: 5px;
+  padding: 6px 0;
+  margin-bottom: 10px;
+  border: 0;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  transition: all 200ms linear;
+}
+
+/* ====================== G ========================================== */
+
+/* ====================== H ========================================== */
+
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  letter-spacing: -1px;
+
+  color: #3c9329;
+
+  text-decoration: none;
+}
+
+h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+
+  text-decoration: none;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  letter-spacing: -1px;
+
+}
+
+/* ====================== I ========================================== */
+
+.item {
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+
+  /* vertical-align: middle; */
+  /* text-align: center; */
+  margin: auto;
+  display: block;
+}
+
+.img {
+  max-width: 100%;
+  width: 250px;
+  margin: 90px 10;
+  display: inline-block;
+
+  padding: 30px;
+  margin: 0px 10px 10px 0;
+}
+
+.img:hover {
+  border-radius: 20px;
+  transform: scale(1.3);
+  box-shadow: 0 5px 15px rgba(109, 73, 73, 0.6);
+}
+
+/* ====================== J ========================================== */
+
+/* ====================== L ========================================== */
+
+
+/* ====================== M ========================================== */
+
+/* ====================== N ========================================== */
+
+.navbar-nav>li>a {
+  color: withe;
+  font-size: x-large;
+  text-decoration: none;
+
+  display: block;
+ /* apagar se não alinhar em downloads */
+} 
+
+.navbar-nav>li:hover>a,
+.navbar-nav>li.active>a {
+  color: rgb(31, 182, 38);
+  background-color: rgb(69, 75, 73);
+  text-decoration: none;
+  border-radius: 10%;
+}
+
+/* ====================== P ========================================== */
+
+.pagina-artigo {
+  margin-bottom: 30px;
+}
+
+.pagina-artigo-imagem {
+  overflow: hidden;
+  position: relative;
+}
+
+.pagina-artigo-textos {
+  margin: 15px 0 30px;
+}
+
+.pagina-conteudo {
+  min-height: 360px;
+  color: aliceblue;
+  font-size: 17px;
+}
+
+/* Barra vermelha dos titulos de página */
+.pagina-titulo {
+  color: #e2d2d2;
+
+  width: 100%;
+  padding: 30px 0 30px;
+  background-image: url(./img/bg-verde.cdr);
+  background-color: #115a0f;
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+}
+
+p,
+li,
+input,
+textarea,
+select,
+table,
+span,
+button,
+a,
+label,
+address {
+  font-family: 'Montserrat', sans-serif;
+
+  text-decoration: none !important;
+}
+
+/* ====================== Q ========================================== */
+
+.quebra-linha {
+  clear: both;
+}
+
+/* ====================== R ========================================== */
+
+.row {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/* ====================== S ========================================== */
+
+/* ====================== T ========================================== */
+
+.text-center {
+  text-align: center;
+}
+
+.text {
+  color: #743838;
+  font-family: sans-serif;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+/* ====================== U ========================================== */
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+._ul {
+  color: #f5ebeb;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 130px;
+}
+
+/* ====================== W ========================================== */
