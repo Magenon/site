@@ -1,14 +1,14 @@
 {
   "name": "site",
   "version": "0.1.0",
-  "homepage": "gh-pages/",
+  "homepage": "https://magenon.github.io/site/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "hero-slider": "^3.2.0",
-    "homepage": " https://magenon.github.io/site/",
+    
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
