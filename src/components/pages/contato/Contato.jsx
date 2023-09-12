@@ -34,9 +34,7 @@ function Contato() {
 
             <div className="pagina-conteudo">
                 <div class="container">
-
                     <Par>
-
                         {/* <div className="row"> */}
                         <div className="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-6">
                             <article className="pagina-artigo">
@@ -68,7 +66,6 @@ function Contato() {
                                 </div>
                             </article>
                         </div>
-
                     </Par>
 
                     {/* <!-- Barra lateral --> */}
