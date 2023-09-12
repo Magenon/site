@@ -2,7 +2,6 @@ import { useRef, useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import "./styles/main.css";
 import { NavbarLink } from "./SplashScreen.js";
-
 //import styled from "styled-components";  https://youtu.be/jmoCo74geJQ
 
 function Navbar() {   
@@ -26,10 +25,7 @@ function Navbar() {
                 <NavbarLink to="/quemSomos">Quem Somos</NavbarLink>
                 <NavbarLink to="/servicos">Serviços</NavbarLink>
                 <NavbarLink to="/parcerias">Parcerias</NavbarLink>
-                <NavbarLink to="/contato">Contato</NavbarLink>
-
-                <NavbarLink to="/robo">Robo</NavbarLink>
-
+                <NavbarLink to="/contato">Contato</NavbarLink>              
                 <button
                     className="nav-btn nav-close-btn"
                     onClick={showNavbar}>                    
