@@ -1,4 +1,4 @@
-//import React from 'react'
+import * as React from 'react'
 import { Link } from "react-router-dom";
 import './Header.css'
 import Navbar from "../../components/Navbar";
@@ -9,7 +9,7 @@ function Header() {
             <div class="">
                 <li><Link className="logo" to="/"></Link></li>
             </div>
-            <Navbar/>
+            <Navbar />
         </header >
     )
 }

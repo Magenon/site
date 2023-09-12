@@ -21,7 +21,7 @@ function Navbar() {
     return (
         <div>
             <nav ref={navRef}>
-                <NavbarLink onClick={handleClick} to="/home">Home</NavbarLink>
+                <NavbarLink onClick={handleClick} to="/home"></NavbarLink>
                 <NavbarLink to="/quemSomos">Quem Somos</NavbarLink>
                 <NavbarLink to="/servicos">Serviços</NavbarLink>
                 <NavbarLink to="/parcerias">Parcerias</NavbarLink>

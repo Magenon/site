@@ -1,14 +1,15 @@
 import './App.css'
 import React, { createContext } from 'react'
 import Container from './components/container'
-import Navbar from "./components/Navbar";
-import Footer from './components//footer'
+//import Navbar from "./components/Navbar";
+import Footer from './components/footer'
 import { Outlet } from 'react-router-dom';
 import { useState } from "react";
 import { ThemeProvider } from "styled-components";
-import Splash from "./components/SplashScreen";
+//import Splash from "./components/SplashScreen";
 import Global from "./components/style/Global";
-import Header from './components//header'
+import Header from './components/header'
+import BasicSlider from './components/BasicSlider';
 
 const LightTheme = {
     pageBackground: "white",
@@ -47,9 +48,10 @@ function App() {
                     {/* <div className='bt-toggle'>
                         <Splash theme={theme} setTheme={setTheme} />
                     </div> */}
-                    <Header/>                   
+                    <Header/>                                      
                     {<Outlet />}
-                    <Container>                    
+                    <BasicSlider />         
+                    <Container>                               
                     </Container>
                     <Footer />
                 </div >
