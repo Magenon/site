@@ -1,7 +1,6 @@
 import * as React from "react";
 import './Solucoes.css';
 import { Par } from "../../SplashScreen.js";
-
 // import { v4 as chave } from 'uuid';
 import Licensiamento from '../../img/servicos/licensiamento.jpg';
 import Fauna from '../../img/servicos/fauna.jpg';
@@ -13,7 +12,7 @@ function Solucoes() {
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
-                            <h1>Resolvemos questões ambientais</h1>
+                            <h1>Criamos sites incríveis para o seu negócio</h1>
                         </div>
                     </div>
                 </div>
@@ -37,14 +36,13 @@ function Solucoes() {
                 <div class="containers">
 
                 <Par>        
-
                     <div class="img">
                         <a href=""
                             class="text-decoration-none text-uppercase font-weight-bold text-center">
                             <img data-src=""
                                 class="imagem-responsiva"
                                 img src={Fauna}  alt="fauna" />
-                            <p class="mt-3 font-weight-bolder">Fauna</p>
+                            <p class="mt-3 font-weight-bolder">Facebook</p>
                         </a>
                     </div>
 
@@ -54,10 +52,9 @@ function Solucoes() {
                             <img data-src="" 
                                 class="imagem-responsiva"
                                 src={Licensiamento} alt="licensiamento" />                            
-                            <p class="mt-3 font-weight-bolder">Gestão</p>
+                            <p class="mt-3 font-weight-bolder">Instagram</p>
                         </a>
-                    </div>
-                    
+                    </div>                    
                     </Par>                    
                 </div>
             </div>
