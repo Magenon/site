@@ -37,7 +37,7 @@ function Solucoes() {
 
                 <Par>        
                     <div class="img">
-                        <a href=""
+                        <a href="https://www.facebook.com/KInf.com.br" target="_blank"
                             class="text-decoration-none text-uppercase font-weight-bold text-center">
                             <img data-src=""
                                 class="imagem-responsiva"
@@ -47,7 +47,7 @@ function Solucoes() {
                     </div>
 
                     <div class="img">
-                        <a href=""
+                        <a href="https://www.instagram.com/k.inf.tere/" target="_blank"
                             class="text-decoration-none text-uppercase font-weight-bold text-center">
                             <img data-src="" 
                                 class="imagem-responsiva"

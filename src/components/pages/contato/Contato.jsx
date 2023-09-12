@@ -47,7 +47,7 @@ function Contato() {
                                     Endereço :
                                     <br></br>
                                     <br></br>
-                                    Av Feliciano Sodré, 000 – Várzea - Loja 7 – Centro – Teresópolis – RJ
+                                    Av Feliciano Sodré, 010 – Várzea - Loja 7 – Centro – Teresópolis – RJ
 
                                     <br></br>
                                     <p>CEP: 25953-007</p>
