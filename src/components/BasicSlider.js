@@ -31,9 +31,10 @@ export default function BasicSlider() {
     >
       <Overlay>
         <Wrapper>
-          <Title>EKO Gestão</Title>
+          <Title>K-Inf Software</Title>
           <Subtitle>
-            Cuidado com o meio ambiente é o objetivo central da nossa organização.
+          Você quer ter um site profissional, bonito e funcional, mas não sabe por onde começar? 
+          Então você precisa conhecer a WebDesign
           </Subtitle>
         </Wrapper>
       </Overlay>
