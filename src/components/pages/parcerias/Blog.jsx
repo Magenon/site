@@ -113,7 +113,7 @@ function Blog() {
                                 {/* <!-- Artigo barra lateral 01 --> */}
                                 <a href=""><div class="barra-lateral-noticias-unico">
                                     <div class="barral-lateral-noticias-imagem">
-                                        <img width="130" height="80" src="https://K-inf.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-130x80.jpg" class="attachment-miniatura size-miniatura wp-post-image" alt="" loading="lazy" srcset="https://sennda.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-130x80.jpg 130w, https://sennda.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-260x160.jpg 260w" sizes="(max-width: 130px) 100vw, 130px">
+                                        <img width="130" height="80" src="https://K-inf.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-130x80.jpg" class="attachment-miniatura size-miniatura wp-post-image" alt="" loading="lazy" srcset="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1112671/retina_1708x683_staging.toptal.net_designers_ux_minimalist-brutalist-web-design-92ef53170f74a492eecb6562729c5d24.png" sizes="(max-width: 130px) 100vw, 130px">
                                         </img>
                                     </div>
 
