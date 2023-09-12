@@ -41,28 +41,28 @@ function Contato() {
                         <div className="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-6">
                             <article className="pagina-artigo">
                                 <div className="pagina-contato-texto">
-                                    <p>A EKO serviços ambientais, tem mais de 8 anos de experiência no mercado,
-                                        além de uma atuação expressiva na área de gestão ambiental , licenciamneto e todo suporte técnico.
+                                    <p>A K-inf Software, tem mais de 8 anos de experiência no mercado,
+                                        além de uma atuação expressiva na área de TI , desenvolvimento e todo suporte técnico.
                                         <br></br>
                                         <br></br>
                                     </p>
                                     Endereço :
                                     <br></br>
                                     <br></br>
-                                    Av Feliciano Sodré, 864 – Várzea - Loja 120 – Centro – Teresópolis – RJ
+                                    Av Feliciano Sodré, 000 – Várzea - Loja 7 – Centro – Teresópolis – RJ
 
                                     <br></br>
                                     <p>CEP: 25953-007</p>
                                     <p>
                                         <p> Telefones: </p>
-                                        (21) 3-726-1198
+                                        (21) 0-0000-0000
                                         <br></br>
-                                        (21) 9-9159-0684
+                                        (21) 0-0000-0000
                                         <br></br>
-                                        (21) 9-7121-7439
+                                        (21) 0-0000-0000
                                         <br></br>
                                         <br></br>
-                                        e-mail: ekoservicosambientais@gmail.com
+                                        e-mail: nocpolaco@gmail.com
                                     </p>
                                     {/* <!-- Fim do loop --> */}
                                 </div>
