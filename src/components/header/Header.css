@@ -20,10 +20,12 @@
     background-size: 100%;
     box-sizing: border-box;     
 }
-
+/* aqui da pra mudar a posição das letras no NavBar */
 header {
-    align-items: center;
+    align-items: right;
     height: 12vh;
+    /* aqui está mudando uma linha verde no header verificar */
+    /* width: 197px; */  
     display: flex;
     justify-content: space-between;
     box-shadow: 0 0 1rem rgb(38, 170, 69);

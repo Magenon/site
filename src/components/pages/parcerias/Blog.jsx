@@ -45,7 +45,7 @@ function Blog() {
                                     <div class="noticias-imagem">
                                         <img width="260" height="160" src="on-laptop.jpg"
                                             class="attachment-artigo-listagem size-artigo-listagem wp-post-image"
-                                            srcset="https://sennda.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-260x160.jpg 260w, https://sennda.com.br/wp-content/uploads/2022/05/close-up-pregnant-woman-typing-on-laptop-130x80.jpg 130w"
+                                            srcset="https://spoilers.tv.br/wp-content/uploads/2020/03/AdobeStock_256229414.jpg"
                                             sizes="(max-width: 260px) 100vw, 260px"></img>
                                         <div class="imagem-mais"></div>
                                     </div>
@@ -74,13 +74,13 @@ function Blog() {
                                     <div class="noticias-imagem">
                                         <img width="260" height="160" src="https://sennda.com.br/wp-content/uploads/2021/08/software-260x160.jpg"
                                             class="attachment-artigo-listagem size-artigo-listagem wp-post-image" alt="software de vendas" loading="lazy"
-                                            srcset="https://sennda.com.br/wp-content/uploads/2021/08/software-260x160.jpg 260w, https://sennda.com.br/wp-content/uploads/2021/08/software-130x80.jpg 130w"
+                                            srcset="https://www.go-globe.com/wp-content/uploads/2023/09/Artificial-Intelligence-5.jpg"
                                             sizes="(max-width: 260px) 100vw, 260px"></img>
                                         <div class="imagem-mais"></div>
                                     </div>
 
                                     <div class="noticias-titulo">
-                                        <h3>O papel fundamental da tecnologia e da educação digital .</h3>
+                                        <h3>O papel fundamental da tecnologia e educação digital .</h3>
                                     </div>
 
                                     <div class="noticias-resumo">
