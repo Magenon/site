@@ -15,7 +15,7 @@ function Downloads() {
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
-                            <h1>Consultoria Ambiental</h1>
+                            <h1>Consultoria em TI</h1>
                         </div>
                     </div>
                 </div>
@@ -42,18 +42,13 @@ function Downloads() {
                         <li class="nav-item">
 
                             <a className="nav-link" aria-current="page" href="" target="blank">
-                                Auditoria Ambiental &nbsp; <fa fa-id-card /> </a>
+                                Softwares &nbsp; <fa fa-id-card /> </a>
                         </li>
                         <li class="nav-item">
                             <img src={Licensiamento} alt="licensiamento" />
                             <a class="nav-link" href="" target="blank">
-                                Licenciamento Ambiental &nbsp; <fa-id-card /> </a>
-                        </li>
-                        <li class="nav-item">
-                            <img src={Fauna} alt="fauna" />
-                            <a class="nav-link" href="" target="blank">
-                                Fauna &nbsp;<fa fa-id-card /></a>
-                        </li>
+                                Licenciamento &nbsp; <fa-id-card /> </a>
+                        </li>                       
                         <li class="nav-item">
                             {/* <img src={Fauna} alt="fauna" /> */}
                             <a class="nav-link" href="/C:\REACT-STATE\react-state\src\components\pages\servicos\Orcamento.html" target="blank">
