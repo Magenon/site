@@ -40,7 +40,6 @@ function Blog() {
                             {/* <!-- Início do loop --> */}
 
                             {/* <!-- Artigo 01 --> */}
-
                             <a href="https://www.furg.br/noticias/noticias-sls/pet-gestao-ambiental-realiza-dialogos-sustentaveis-nesta-quarta-25-em-conjunto-com-o-projeto-parmis" target="_blank">
                                 <article class="noticia">
                                     <div class="noticias-imagem">
@@ -52,7 +51,7 @@ function Blog() {
                                     </div>
 
                                     <div class="noticias-titulo">
-                                        <h3>PET Gestão Ambiental realiza “Diálogos Sustentáveis”.</h3>
+                                        <h3>A K-inf realiza “Diálogos para melhorias junto ao cliente”.</h3>
                                     </div>
 
                                     <div class="noticias-resumo">
@@ -69,9 +68,7 @@ function Blog() {
 
                             <div class="quebra-linha"></div>
                             <hr />
-
                             {/* <!-- Artigo 02 --> */}
-
                             <a href="https://www.jornalmtnorte.com.br/opiniao/o-papel-fundamental-do-ecoturismo-e-da-educacao-ambiental-em-areas-de-preservacao-permanente/23390" target="_blank">
                                 <article class="noticia">
                                     <div class="noticias-imagem">
@@ -83,27 +80,24 @@ function Blog() {
                                     </div>
 
                                     <div class="noticias-titulo">
-                                        <h3>O papel fundamental do ecoturismo e da educação ambiental .</h3>
+                                        <h3>O papel fundamental da tecnologia e da educação digital .</h3>
                                     </div>
 
                                     <div class="noticias-resumo">
-                                        <p>Para o menor impacto ambiental e com soluções sustentáveis,
-                                            é viável a luz da biologia, da conservação e da gestão ambiental ...
+                                        <p>Para o melhor aproveitamento de soluções atuais,
+                                            e viável a todo tipo de gosto, da segurança a implantação ...
                                         </p>
                                     </div>
                                     <p></p>
                                     <div className="">
                                         <input type="submit" className="form-newsletter-rodape-botao" value="Leia mais" name="subscribe" id="mc-embedded-subscribe" />
                                     </div>
-
                                 </article>
                             </a>
 
                             <div class="quebra-linha"></div>
                             <hr />
-
                             {/* <!-- Artigo 10 --> */}
-
                             <div class="quebra-linha"></div><hr />
                         </div>
                     </Par>
