@@ -9,22 +9,21 @@ import Contato from './components/pages/contato/Contato';
 import Home from './components/pages/home/Home';
 import reportWebVitals from './reportWebVitals';
 
-//import Robo from './components/pages/robo';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
-    <Routes>
-      <Route path="/" element={<App />} >
-        <Route path="/home" element={<Home />} />
-        <Route path="/quemSomos" element={<Solucoes />} />
-        <Route path="/servicos" element={<Downloads />} />
-        <Route path="/parcerias" element={<Blog />} />
-        <Route path="/contato" element={<Contato />} />      
-      </Route>
-    </Routes>
-  </BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <Routes>
+            <Route path="/" element={<App />} >
+                <Route path="/home" element={<Home />} />                
+                <Route path="/quemSomos" element={<Solucoes />} />
+                <Route path="/servicos" element={<Downloads />} />
+                <Route path="/parcerias" element={<Blog />} />
+                <Route path="/contato" element={<Contato />} />               
+            </Route>
+        </Routes>
+    </BrowserRouter>
 );
 
 reportWebVitals();

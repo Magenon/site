@@ -4,7 +4,7 @@ import "./styles/main.css";
 import { NavbarLink } from "./SplashScreen.js";
 //import styled from "styled-components";  https://youtu.be/jmoCo74geJQ
 
-function Navbar() {   
+function Navbar() {
 
     const [clicked, setClicked] = useState(false)
     const handleClick = () => {
@@ -21,16 +21,16 @@ function Navbar() {
     return (
         <div>
             <nav ref={navRef}>
-                <NavbarLink onClick={handleClick} to="/home"></NavbarLink>
+                <NavbarLink onClick={handleClick} to="/home">Home</NavbarLink>
                 <NavbarLink to="/quemSomos">Quem Somos</NavbarLink>
                 <NavbarLink to="/servicos">Serviços</NavbarLink>
                 <NavbarLink to="/parcerias">Parcerias</NavbarLink>
-                <NavbarLink to="/contato">Contato</NavbarLink>              
+                <NavbarLink to="/contato">Contato</NavbarLink>
                 <button
                     className="nav-btn nav-close-btn"
-                    onClick={showNavbar}>                    
+                    onClick={showNavbar}>
                     <FaTimes />
-                </button>               
+                </button>
             </nav>
             <button className="nav-btn" onClick={showNavbar}>
                 <FaBars />
