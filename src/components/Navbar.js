@@ -30,7 +30,7 @@ function Navbar() {
                     className="nav-btn nav-close-btn"
                     onClick={showNavbar}>                    
                     <FaTimes />
-                </button>
+                </button>               
             </nav>
             <button className="nav-btn" onClick={showNavbar}>
                 <FaBars />

@@ -22,7 +22,6 @@ root.render(
         <Route path="/servicos" element={<Downloads />} />
         <Route path="/parcerias" element={<Blog />} />
         <Route path="/contato" element={<Contato />} />      
-
       </Route>
     </Routes>
   </BrowserRouter>
