@@ -55,7 +55,7 @@ function Blog() {
                                     </div>
 
                                     <div class="noticias-resumo">
-                                        <h4>A K-infT desenvolvi e realiza “Diálogos Sustentáveis” nesta quarta, 25,
+                                        <h4>A K-inf desenvolvi e realiza “Diálogos Sustentáveis” nesta quarta, 25,
                                             em conjunto com o projeto Parmis. Encontro acontece a partir das 19h às 20h ...
                                         </h4>
                                     </div>
