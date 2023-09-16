@@ -55,7 +55,7 @@ function Blog() {
                                     </div>
 
                                     <div class="noticias-resumo">
-                                        <h4>PET Gestão Ambiental realiza “Diálogos Sustentáveis” nesta quarta, 25,
+                                        <h4>A K-infT desenvolvime realiza “Diálogos Sustentáveis” nesta quarta, 25,
                                             em conjunto com o projeto Parmis. Encontro acontece a partir das 19h às 20h ...
                                         </h4>
                                     </div>
@@ -145,7 +145,7 @@ function Blog() {
                                     </div>
 
                                     <div class="barra-lateral-noticias-texto">
-                                        <p>Engenharia Ambiental e Sanitarista.</p>
+                                        <p>Engenharia analítica, criptografia e saegurança de dados.</p>
                                     </div>
                                 </div></a>
 
