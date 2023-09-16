@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e23fbaa.css",
-    "main.js": "/static/js/main.e536709c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo-footer.png": "/static/media/logo-footer.eb5d930dbad92cb4c48c.png",
-    "index.html": "/index.html",
-    "main.6e23fbaa.css.map": "/static/css/main.6e23fbaa.css.map",
-    "main.e536709c.js.map": "/static/js/main.e536709c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/site/static/css/main.e8aa23b5.css",
+    "main.js": "/site/static/js/main.c87a3fc6.js",
+    "static/js/787.dd4029b4.chunk.js": "/site/static/js/787.dd4029b4.chunk.js",
+    "static/media/bg-verde.cdr": "/site/static/media/bg-verde.f18e75ca2705d0470d17.cdr",
+    "static/media/logo-footer.png": "/site/static/media/logo-footer.eb5d930dbad92cb4c48c.png",
+    "static/media/licensiamento.jpg": "/site/static/media/licensiamento.919def7e603229f8130c.jpg",
+    "static/media/fauna.jpg": "/site/static/media/fauna.fc97b0548d73866871f4.jpg",
+    "index.html": "/site/index.html",
+    "main.e8aa23b5.css.map": "/site/static/css/main.e8aa23b5.css.map",
+    "main.c87a3fc6.js.map": "/site/static/js/main.c87a3fc6.js.map",
+    "787.dd4029b4.chunk.js.map": "/site/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e23fbaa.css",
-    "static/js/main.e536709c.js"
+    "static/css/main.e8aa23b5.css",
+    "static/js/main.c87a3fc6.js"
   ]
 }
