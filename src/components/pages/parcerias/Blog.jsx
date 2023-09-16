@@ -145,7 +145,7 @@ function Blog() {
                                     </div>
 
                                     <div class="barra-lateral-noticias-texto">
-                                        <p>Engenharia analítica, criptografia e saegurança de dados.</p>
+                                        <p>Engenharia analítica, criptografia e segurança dos dados.</p>
                                     </div>
                                 </div></a>
 
