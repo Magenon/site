@@ -190,7 +190,6 @@ footer .glyphicon {
     visibility: visible;
 }
 
-
 .whatsapp-link {
     position: fixed;
     width: 60px;
@@ -208,7 +207,6 @@ footer .glyphicon {
 .fa-whatsapp{
     margin-top: 16px;
 }
-
 
 @keyframes slide {
     0% {
