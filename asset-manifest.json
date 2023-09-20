@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.79b8f20a.css",
-    "main.js": "/site/static/js/main.659197f0.js",
+    "main.css": "/site/static/css/main.ab08fb48.css",
+    "main.js": "/site/static/js/main.895e34c6.js",
     "static/js/787.20643155.chunk.js": "/site/static/js/787.20643155.chunk.js",
     "static/media/logo-sennda.png": "/site/static/media/logo-sennda.1a02b6a7cfb2578dff06.png",
     "static/media/logo-top.png": "/site/static/media/logo-top.eb5d930dbad92cb4c48c.png",
     "index.html": "/site/index.html",
-    "main.79b8f20a.css.map": "/site/static/css/main.79b8f20a.css.map",
-    "main.659197f0.js.map": "/site/static/js/main.659197f0.js.map",
+    "main.ab08fb48.css.map": "/site/static/css/main.ab08fb48.css.map",
+    "main.895e34c6.js.map": "/site/static/js/main.895e34c6.js.map",
     "787.20643155.chunk.js.map": "/site/static/js/787.20643155.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79b8f20a.css",
-    "static/js/main.659197f0.js"
+    "static/css/main.ab08fb48.css",
+    "static/js/main.895e34c6.js"
   ]
 }
