@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header styles */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: green;
+    color: white;
+    position: relative;
+    /* Add relative positioning */
+}
+
+.logo {
+    font-size: 20px;
+}
+
+/* Desktop navigation links */
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    width: 75%;
+}
+
+/* Common navigation link styles */
+.home,
+.servicos,
+.contato,
+.about {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+
+.home:hover,
+.servicos:hover,
+.about:hover,
+.contato:hover {
+    color: rgb(195, 206, 195);
+    font-size: 22px;
+    /* Increase font size on hover */
+}
+
+
+/* Mobile menu icon */
+.mobile-menu-icon {
+    display: none;
+}
+
+/* Media query for mobile layout */
+@media screen and (max-width: 780px) {
+    .logo {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    /* Adjusted styles for mobile navigation */
+    .nav-links-mobile {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.94);
+        opacity: 0.84;
+        list-style: none;
+        text-align: center;
+        padding: 10px 0;
+        transition: all 1.5s ease-out;
+    }
+
+    /* Adjusted styles for mobile navigation links */
+    .home,
+    .servicos,
+    .about,
+    .contato {
+        color: rgb(239, 245, 240);
+        text-align: center;
+        padding: 10px 0;
+        display: block;
+    }
+
+    .home:hover,
+    .servicos:hover,
+    .about:hover,
+    .contato:hover {
+        color: rgb(131, 196, 134);
+        font-size: 25px;
+        /* Increase font size on hover */
+    }
+
+    /* Mobile menu icon styles */
+    .mobile-menu-icon {
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background: transparent;
+        border: none;
+        outline: none;
+        top: 50%;
+        right: 20px;
+        transform: translateY(-50%);
+    }
+}
