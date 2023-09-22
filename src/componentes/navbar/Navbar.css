@@ -41,7 +41,6 @@
     cursor: pointer;
 }
 
-
 .home:hover,
 .servicos:hover,
 .about:hover,
@@ -50,7 +49,6 @@
     font-size: 22px;
     /* Increase font size on hover */
 }
-
 
 /* Mobile menu icon */
 .mobile-menu-icon {
