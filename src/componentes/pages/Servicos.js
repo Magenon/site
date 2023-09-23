@@ -34,7 +34,7 @@ function Servicos () {
                     </div>
                     <div className="col-sm-4">
                         <span className="glyphicon glyphicon-certificate logo-small"></span>
-                        <h4>CERTIFICADA</h4>
+                        <h4>VPS</h4>
                         <p>A Web designer Studio detém várias certificações.</p>
                     </div>
                     <div className="col-sm-4">
