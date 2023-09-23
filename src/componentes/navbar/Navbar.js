@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
@@ -7,7 +8,9 @@ function Navbar() {
   return (
     <div>
       <nav className="navbar">
-        
+
+      <li><a class="logotipo" href="/site"></a></li>
+
         <ul className={isMobile ? "nav-links-mobile" : "nav-links"}
           onClick={() => setIsMobile(false)}
         >

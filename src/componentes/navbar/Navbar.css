@@ -4,20 +4,22 @@
     box-sizing: border-box;
 }
 
+.logotipo {
+    color: #f4511e;
+    font-size: 200px;
+    background-image: url('../img/logo/logo-top.png');
+}
+
 /* Header styles */
 .navbar {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 50px;
+    height: 150px;
     background-color: green;
     color: white;
     position: relative;
     /* Add relative positioning */
-}
-
-.logo {
-    font-size: 20px;
 }
 
 /* Desktop navigation links */

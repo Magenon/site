@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 
 const Footer = props => {
@@ -9,7 +10,6 @@ const Footer = props => {
             <p class="text-center">2023 © Web designer Studio - Todos os direitos reservados. Desenvolvido por -&nbsp;
                     <a className="" href="" target="">Web designer Studio</a>
                 </p>          
-                {/* <a id='link-topo' href='#'> &#9650;</a> */}
         </footer>
     )
 }
