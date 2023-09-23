@@ -5,9 +5,15 @@
 }
 
 .logotipo {
-    color: #f4511e;
-    font-size: 200px;
+    width: 170px;
+    height: 59px;
+    background-size: 100%;
+    margin: 8px;
+    z-index: 400;    
     background-image: url('../img/logo/logo-top.png');
+    float: left;
+    position: relative;
+    transition: all 200ms linear; 
 }
 
 /* Header styles */
