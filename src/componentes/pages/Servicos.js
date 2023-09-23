@@ -33,9 +33,9 @@ function Servicos () {
                         <p>Contribuimos para o desenvolvimnento sustentável.</p>
                     </div>
                     <div className="col-sm-4">
-                        <span className="glyphicon glyphicon-certificate logo-small"></span>
+                        <span className="glyphicon glyphicon-cloud-upload logo-small"></span>
                         <h4>VPS</h4>
-                        <p>A Web designer Studio detém várias certificações.</p>
+                        <p>Virtual Private Server.</p>
                     </div>
                     <div className="col-sm-4">
                         <span className="glyphicon glyphicon-wrench logo-small"></span>
