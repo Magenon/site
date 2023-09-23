@@ -48,7 +48,7 @@ const Portfolio = props => {
                     {/* Wrapper for slides*/}
                     <div className="carousel-inner" role="listbox">
                         <div className="item active">
-                            <h4>"This company is the best. I am so happy with the result!"<br /><span>Michael Host, Vice President, Comment Box</span></h4>
+                            <h4>"I am so happy with the result!"<br /><span>Michael Host, Vice President, Comment Box</span></h4>
                         </div>
                         <div className="item">
                             <h4>"One word... WOW!!"<br /><span>John Doe, Salesman, Rep Inc</span></h4>
