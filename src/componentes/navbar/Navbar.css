@@ -36,8 +36,13 @@
     width: 75%;
 }
 
+
 /* Common navigation link styles */
-.home,
+.home{
+    display: none;
+}
+
+
 .servicos,
 .contato,
 .about {
@@ -49,7 +54,6 @@
     cursor: pointer;
 }
 
-.home:hover,
 .servicos:hover,
 .about:hover,
 .contato:hover {
