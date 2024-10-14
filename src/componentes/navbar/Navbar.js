@@ -13,6 +13,7 @@ function Navbar() {
           onClick={() => setIsMobile(false)}
         >
           <Link to="/" className="home">Inicio</Link>
+          <Link to="/produtos" className="contato">Produtos</Link>
           <Link to="/servicos" className="servicos">Serviços</Link>
           <Link to="/portfolio" className="about">Sobre nós</Link>
           <Link to="/precos" className="about">Preços</Link>
