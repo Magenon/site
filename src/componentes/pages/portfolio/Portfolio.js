@@ -20,13 +20,7 @@ const Portfolio = props => {
                             <img src={sennda} alt="Brasil" width="400" height="300" />
                         </div>
                     </div>
-                    <div className="col-sm-4">
-                        <div className="thumbnail">
-                            <p><strong>Previne</strong></p>
-                            <p>Prevenção em saúde</p>
-                            <img src={previne} alt="Brasil" width="400" height="300" />
-                        </div>
-                    </div>
+                   
                     <div className="col-sm-4">
                         <div className="thumbnail">
                             <p><strong>Magenon</strong></p>
