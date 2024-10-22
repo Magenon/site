@@ -8,7 +8,7 @@ const Footer = props => {
                 <span className="glyphicon glyphicon-chevron-up"></span>
             </a>
             <p class="text-center">2023 © Web designer Studio - Todos os direitos reservados. Desenvolvido por -&nbsp;
-                    <a className="" href="" target="">Web designer Studio</a>
+                    <a className="">Web designer Studio</a>
                 </p>          
         </footer>
     )

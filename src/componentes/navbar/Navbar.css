@@ -5,15 +5,15 @@
 }
 
 .logotipo {
-    width: 170px;
+    width: 60px;
     height: 59px;
     background-size: 100%;
     margin: 8px;
-    z-index: 400;    
+    z-index: 400;
     background-image: url('../img/logo/logo-top.png');
     float: left;
     position: relative;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 
 /* Header styles */
@@ -36,12 +36,16 @@
     width: 75%;
 }
 
-
 /* Common navigation link styles */
-.home{
+.home {
     display: none;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
 }
-
 
 .servicos,
 .contato,
@@ -57,7 +61,7 @@
 .servicos:hover,
 .about:hover,
 .contato:hover {
-    color: rgb(195, 206, 195);
+    color: rgb(31, 31, 32);
     font-size: 22px;
     /* Increase font size on hover */
 }
@@ -99,7 +103,7 @@
     .servicos,
     .about,
     .contato {
-        color: rgb(239, 245, 240);
+        color: rgb(40, 163, 50);
         text-align: center;
         padding: 10px 0;
         display: block;
@@ -126,5 +130,7 @@
         top: 50%;
         right: 20px;
         transform: translateY(-50%);
+
+        transition: 0.2s;
     }
 }
